@@ -1,0 +1,7 @@
+Słowa:
+ala: 3
+kota: 1
+ma: 3
+psa: 1
+psy: 1
+2: 1
